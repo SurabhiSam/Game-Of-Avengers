@@ -1,0 +1,62 @@
+[
+  {
+    "ID": 1,
+    "Weapon": "Mind Stone"
+  },
+  {
+    "ID": 2,
+    "Weapon": "Eye Of Agamotto"
+  },
+  {
+    "ID": 3,
+    "Weapon": "Ultron"
+  },
+  {
+    "ID": 4,
+    "Weapon": "Mjolnir"
+  },
+  {
+    "ID": 5,
+    "Weapon": "Dragonfang"
+  },
+  {
+    "ID": 6,
+    "Weapon": "Iron-Man suit(s)"
+  },
+  {
+    "ID": 7,
+    "Weapon": "War Machine's Armor Arsenal"
+  },
+  {
+    "ID": 8,
+    "Weapon": "Spider-Man's Web Shooters"
+  },
+  {
+    "ID": 9,
+    "Weapon": "Hawkeye’s Quiver And Trick Arrows"
+  },
+  {
+    "ID": 10,
+    "Weapon": "Black Panther’s Claws"
+  },
+  {
+    "ID": 11,
+    "Weapon": "Falcon’s Wings"
+  },
+  {
+    "ID": 12,
+    "Weapon": "Winter Soldier’s Arm"
+  },
+  {
+    "ID": 13,
+    "Weapon": "Captain America’s Shield"
+  },
+  {
+    "ID": 14,
+    "Weapon": "Hawkeye’s Bow"
+  },
+  {
+    "ID": 15,
+    "Weapon": "Black Widow’s Bites"
+  }
+]
